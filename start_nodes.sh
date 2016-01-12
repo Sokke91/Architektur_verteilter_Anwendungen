@@ -1,0 +1,8 @@
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 1 L 3"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 2 L 2"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 3 L 1"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 4 L 0"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 5 F -1"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 6 F 0"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 7 F 1"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 8 F 2"'

@@ -1,0 +1,72 @@
+I, [2015-11-04T12:03:42.891897 #8437]  INFO -- : Node 1: ist jetzt Initiator
+I, [2015-11-04T12:03:42.893380 #8437]  INFO -- : Node 1: Sende Nachricht an :  2
+I, [2015-11-04T12:03:42.893708 #8457]  INFO -- : Node 2: Nachricht erhalten von 1 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.894428 #8437]  INFO -- : Node 1: Sende Nachricht an :  4
+I, [2015-11-04T12:03:42.894688 #8530]  INFO -- : Node 4: Nachricht erhalten von 1 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.895451 #8437]  INFO -- : Node 1: Sende Nachricht an :  5
+I, [2015-11-04T12:03:42.895510 #8457]  INFO -- : Node 2: Sende Nachricht an :  3
+I, [2015-11-04T12:03:42.895908 #8599]  INFO -- : Node 5: Nachricht erhalten von 1 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.896073 #8488]  INFO -- : Node 3: Nachricht erhalten von 2 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.897225 #8457]  INFO -- : Node 2: Sende Nachricht an :  5
+I, [2015-11-04T12:03:42.897610 #8488]  INFO -- : Node 3: Sende Nachricht an :  7
+I, [2015-11-04T12:03:42.897864 #8530]  INFO -- : Node 4: Sende Nachricht an :  6
+I, [2015-11-04T12:03:42.898353 #8599]  INFO -- : Node 5: Sende Nachricht an :  11
+I, [2015-11-04T12:03:42.898627 #8706]  INFO -- : Node 7: Nachricht erhalten von 3 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.898726 #8637]  INFO -- : Node 6: Nachricht erhalten von 4 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.899980 #8457]  INFO -- : Node 2: Sende Nachricht an :  7
+I, [2015-11-04T12:03:42.900032 #8488]  INFO -- : Node 3: Sende Nachricht an :  9
+I, [2015-11-04T12:03:42.900323 #8530]  INFO -- : Node 4: Sende Nachricht an :  8
+I, [2015-11-04T12:03:42.900368 #8599]  INFO -- : Node 5: Sende Nachricht an :  2
+I, [2015-11-04T12:03:42.900914 #8637]  INFO -- : Node 6: Sende Nachricht an :  10
+I, [2015-11-04T12:03:42.900908 #8706]  INFO -- : Node 7: Sende Nachricht an :  4
+I, [2015-11-04T12:03:42.901232 #8809]  INFO -- : Node 9: Nachricht erhalten von 3 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.901576 #8760]  INFO -- : Node 8: Nachricht erhalten von 4 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.901604 #8849]  INFO -- : Node 10: Nachricht erhalten von 6 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:42.902385 #8457]  INFO -- : Node 2: Sende Nachricht an :  4
+I, [2015-11-04T12:03:42.902394 #8530]  INFO -- : Node 4: Sende Nachricht an :  7
+I, [2015-11-04T12:03:42.902655 #8637]  INFO -- : Node 6: Sende Nachricht an :  7
+I, [2015-11-04T12:03:42.902831 #8706]  INFO -- : Node 7: Sende Nachricht an :  6
+I, [2015-11-04T12:03:42.903325 #8530]  INFO -- : Node 4: Sende Nachricht an :  2
+I, [2015-11-04T12:03:42.903432 #8706]  INFO -- : Node 7: Sende Nachricht an :  2
+I, [2015-11-04T12:03:47.900866 #8599]  INFO -- : Node 5: Nachricht erhalten von 2 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:47.907808 #8457]  INFO -- : Node 2: Nachricht erhalten von 5 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:47.907808 #8706]  INFO -- : Node 7: Nachricht erhalten von 2 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:47.907808 #8530]  INFO -- : Node 4: Nachricht erhalten von 7 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:47.907807 #8637]  INFO -- : Node 6: Nachricht erhalten von 7 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:52.913490 #8530]  INFO -- : Node 4: Nachricht erhalten von 2 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:52.913486 #8706]  INFO -- : Node 7: Nachricht erhalten von 4 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:52.913491 #8457]  INFO -- : Node 2: Nachricht erhalten von 4 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:52.913726 #8706]  INFO -- : Node 7: Glaubt das Gerücht
+I, [2015-11-04T12:03:52.913767 #8457]  INFO -- : Node 2: Glaubt das Gerücht
+I, [2015-11-04T12:03:52.913764 #8530]  INFO -- : Node 4: Glaubt das Gerücht
+I, [2015-11-04T12:03:57.918658 #8706]  INFO -- : Node 7: Nachricht erhalten von 6 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:03:57.918662 #8457]  INFO -- : Node 2: Nachricht erhalten von 7 :  Nachricht: Rot ist gelb
+I, [2015-11-04T12:08:05.470340 #8437]  INFO -- : Node 1: Sende Nachricht an :  2
+I, [2015-11-04T12:08:05.471544 #8437]  INFO -- : Node 1: Sende Nachricht an :  4
+I, [2015-11-04T12:08:05.471791 #8457]  INFO -- : Node 2: Sende Nachricht an :  1
+I, [2015-11-04T12:08:05.473160 #8437]  INFO -- : Node 1: Sende Nachricht an :  5
+I, [2015-11-04T12:08:05.473284 #8457]  INFO -- : Node 2: Sende Nachricht an :  3
+I, [2015-11-04T12:08:05.474001 #8530]  INFO -- : Node 4: Sende Nachricht an :  1
+I, [2015-11-04T12:08:05.476111 #8457]  INFO -- : Node 2: Sende Nachricht an :  5
+I, [2015-11-04T12:08:05.476680 #8530]  INFO -- : Node 4: Sende Nachricht an :  6
+I, [2015-11-04T12:08:05.478507 #8599]  INFO -- : Node 5: Sende Nachricht an :  1
+I, [2015-11-04T12:08:05.479207 #8488]  INFO -- : Node 3: Sende Nachricht an :  2
+I, [2015-11-04T12:08:05.480294 #8457]  INFO -- : Node 2: Sende Nachricht an :  7
+I, [2015-11-04T12:08:05.480678 #8530]  INFO -- : Node 4: Sende Nachricht an :  8
+I, [2015-11-04T12:08:05.481364 #8599]  INFO -- : Node 5: Sende Nachricht an :  11
+I, [2015-11-04T12:08:05.481405 #8488]  INFO -- : Node 3: Sende Nachricht an :  7
+I, [2015-11-04T12:08:05.482452 #8637]  INFO -- : Node 6: Sende Nachricht an :  4
+I, [2015-11-04T12:08:05.483352 #8457]  INFO -- : Node 2: Sende Nachricht an :  4
+I, [2015-11-04T12:08:05.483355 #8488]  INFO -- : Node 3: Sende Nachricht an :  9
+I, [2015-11-04T12:08:05.483454 #8530]  INFO -- : Node 4: Sende Nachricht an :  7
+I, [2015-11-04T12:08:05.483759 #8599]  INFO -- : Node 5: Sende Nachricht an :  2
+I, [2015-11-04T12:08:05.488482 #8637]  INFO -- : Node 6: Sende Nachricht an :  10
+I, [2015-11-04T12:08:05.489047 #8706]  INFO -- : Node 7: Sende Nachricht an :  3
+I, [2015-11-04T12:08:05.489581 #8760]  INFO -- : Node 8: Sende Nachricht an :  4
+I, [2015-11-04T12:08:05.493049 #8637]  INFO -- : Node 6: Sende Nachricht an :  7
+I, [2015-11-04T12:08:05.493490 #8706]  INFO -- : Node 7: Sende Nachricht an :  4
+I, [2015-11-04T12:08:05.493861 #8530]  INFO -- : Node 4: Sende Nachricht an :  2
+I, [2015-11-04T12:08:05.496874 #8809]  INFO -- : Node 9: Sende Nachricht an :  3
+I, [2015-11-04T12:08:05.502263 #8849]  INFO -- : Node 10: Sende Nachricht an :  6
+I, [2015-11-04T12:08:05.504051 #8706]  INFO -- : Node 7: Sende Nachricht an :  6
+I, [2015-11-04T12:08:05.506209 #8706]  INFO -- : Node 7: Sende Nachricht an :  2
