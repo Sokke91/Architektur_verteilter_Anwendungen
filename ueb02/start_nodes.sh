@@ -9,7 +9,7 @@ osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb0
 
 osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 9 F 0"'
 osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 10 F 0"'
-osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 1"'
+osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 11 F 1"'
 osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 12 F 1"'
 osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 13 F 2"'
 osascript -e 'tell application "Terminal" to do script "./Documents/HTW/AVA/ueb02/GameNode.rb 14 F 2"'
