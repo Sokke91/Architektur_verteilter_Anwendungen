@@ -71,7 +71,6 @@ class Node
               @want_enter_cs = true
           end  	 	
 	     end
-
       }
     rescue IO::WaitReadable
       IO.select([@socket])
